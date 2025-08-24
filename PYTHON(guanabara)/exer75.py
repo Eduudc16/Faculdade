@@ -12,7 +12,7 @@ if 3 in nro:
 else:
     print('O valor 3 não foi digitado em nenhuma posição')
 
-print(f'os valores pares digitados foram', end='')
+print('os valores pares digitados foram', end='')
 
 for n in nro:
 
